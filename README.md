@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>🌡️ API de Monitoramento de Temperatura e Umidade com ESP32</h1>
+<h1>🌡️ API de Monitoramento de Temperatura e Umidade com ESP32 (Documentação da API REST)</h1>
 
 <p>API RESTful desenvolvida em Node.js + Express para receber e armazenar leituras de temperatura e umidade de um sensor ESP32, servindo como backend para um sistema de monitoramento ambiental.</p>
 
